@@ -37,7 +37,7 @@ As part of the LeoVegas Native App Developer task, I refactored and enhanced the
 ## How to Run
 
 1. Clone the base repo:
-   `git clone git@github.com:kungfuyou/lvuk-native.git`
+   `git clone git@github.com:osama3101995/lvuk-test.git`
 
 2. Replace the component in `app/tabs/task.tsx` with this version.
 
