@@ -32,6 +32,11 @@ As part of the LeoVegas Native App Developer task, I refactored and enhanced the
 * **Cleaner UX**: Small things like a clear search button and empty-state messages significantly improve user interaction and reduce frustration.
 * **Scalability & Maintainability**: Strong typing, proper layout separation, and error handling lay the foundation for a maintainable and scalable codebase.
 
+## Ideally...
+
+Ideally, we should be doing any kind of complex work on the backend, such as search query. utilizing dedicated systems with proper caching or dedicated search engine databases like Algolia would be ideal for something like this.
+
+
 ---
 
 ## How to Run
