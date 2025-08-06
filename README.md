@@ -39,7 +39,7 @@ As part of the LeoVegas Native App Developer task, I refactored and enhanced the
 1. Clone the base repo:
    `git clone git@github.com:osama3101995/lvuk-test.git`
 
-2. Replace the component in `app/tabs/task.tsx` with this version.
+2. Check the component in `app/tabs/task.tsx` with this version.
 
 3. Run the project:
    `npx expo start` (or follow the steps in the base repo README)
